@@ -1,7 +1,7 @@
 {
   "name": "modern_portfolio",
   "version": "1.0.0",
-  "description": "Portfolio Website",
+  "description": "Responsive Portfolio Website",
   "main": "index.js",
   "scripts": {
     "sass": "node-sass -w scss/ -o dist/css/ --recursive"
@@ -15,5 +15,13 @@
   "license": "MIT",
   "dependencies": {
     "node-sass": "^4.12.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/innov8ivecoder/modern-portfolio-repo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/innov8ivecoder/modern-portfolio-repo/issues"
+  },
+  "homepage": "https://github.com/innov8ivecoder/modern-portfolio-repo#readme"
 }
